@@ -1,6 +1,11 @@
 ![Logo](admin/boblight.png)
-ioBroker motion Adapter
+# ioBroker Boblight Adapter
 ==============
+
+[![NPM version](http://img.shields.io/npm/v/iobroker.boblight.svg)](https://www.npmjs.com/package/iobroker.boblight)
+[![Downloads](https://img.shields.io/npm/dm/iobroker.boblight.svg)](https://www.npmjs.com/package/iobroker.boblight)
+
+[![NPM](https://nodei.co/npm/iobroker.boblight.png?downloads=true)](https://nodei.co/npm/iobroker.boblight/)
 
 Control a Boblightserver from ioBroker.
 
@@ -27,7 +32,7 @@ This is only a prove of concept. It somehow works, but it´s far from complete..
 
 The MIT License (MIT)
 
-Copyright (c) 2015 ruhigundrelaxed
+Copyright (c) 2015-2017 ruhigundrelaxed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
