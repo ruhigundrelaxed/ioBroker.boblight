@@ -29,5 +29,8 @@
     "url": "https://github.com/ruhigundrelaxed/ioBroker.boblight/issues"
   },
   "main": "boblight.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
   "license": "MIT"
 }
