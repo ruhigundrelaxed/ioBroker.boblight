@@ -5,27 +5,30 @@
   "author": "ruhigundrelaxed<martin@qvadrat.de>",
   "homepage": "https://github.com/ruhigundrelaxed/ioBroker.boblight/",
   "readme": "https://github.com/ruhigundrelaxed/ioBroker.boblight/blob/master/README.md",
-  "keywords": ["ioBroker", "boblight"],
+  "keywords": [
+    "ioBroker",
+    "boblight"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ruhigundrelaxed/iobroker.boblight.git"
   },
   "dependencies": {
-      "fs": "",
-      "jsonfile":""
+    "fs": "",
+    "jsonfile": ""
   },
   "devDependencies": {
-    "grunt": "~0.4.4",
-    "grunt-replace": "~0.7.6",
-    "grunt-contrib-jshint": "~0.10.0",
-    "grunt-jscs": "~0.6.1",
-    "grunt-http": "~1.4.1",
+    "grunt": "^1.0.1",
+    "grunt-replace": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-jscs": "^3.0.1",
+    "grunt-http": "^2.2.0",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-compress": "~0.8.0",
     "grunt-contrib-copy": "~0.5.0",
     "grunt-exec": "~0.4.5",
-    "mocha": "^2.3.4",
-    "chai": "^3.4.1"
+    "mocha": "^3.5.3",
+    "chai": "^4.1.2"
   },
   "bugs": {
     "url": "https://github.com/ruhigundrelaxed/ioBroker.boblight/issues"
