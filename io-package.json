@@ -1,21 +1,23 @@
 {
     "common": {
-        "name":                     "boblight",
-        "version":                  "0.0.1",
-        "title":                    "iobroker boblight  Adapter",
-        "desc":                     "Javascript/Node.js based boblight adapter",
-        "platform":                 "Javascript/Node.js",
-        "mode":                     "daemon",
-        "icon":                     "boblight.png",
-        "extIcon":                  "https://github.com/ruhigundrelaxed/ioBroker.boblight/blob/master/admin/boblight.png",
-        "loglevel":                 "info",
-        "nondeletable":             true
+        "name": "boblight",
+        "version": "0.0.1",
+        "title": "iobroker boblight  Adapter",
+        "desc": "Javascript/Node.js based boblight adapter",
+        "platform": "Javascript/Node.js",
+        "mode": "daemon",
+        "icon": "boblight.png",
+        "extIcon": "https://github.com/ruhigundrelaxed/ioBroker.boblight/blob/master/admin/boblight.png",
+        "loglevel": "info",
+        "nondeletable": true,
+        "authors": [
+            "ruhigundrelaxed<martin@qvadrat.de>"
+        ],
+        "type": "lighting"
     },
     "native": {
         "address": "127.0.0.1",
         "bobl_port": 19333
     },
-    "objects": [
-
-    ]
+    "objects": []
 }
