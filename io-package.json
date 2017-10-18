@@ -7,7 +7,7 @@
         "platform":                 "Javascript/Node.js",
         "mode":                     "daemon",
         "icon":                     "boblight.png",
-        "extIcon":                  "https://github.com/ruhigundrelaxed/ioBroker.boblight/blob/master/admin/boblight.png",
+        "extIcon":                  "https://raw.githubusercontent.com/ruhigundrelaxed/ioBroker.boblight/master/admin/boblight.png",
         "loglevel":                 "info",
         "nondeletable":             true
     },
