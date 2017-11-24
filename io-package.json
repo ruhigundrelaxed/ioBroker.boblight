@@ -4,9 +4,9 @@
         "version": "0.0.1",
         "title": "iobroker boblight Adapter",
         "desc":                     {
-            "en": "avascript/Node.js based boblight adapter",
+            "en": "Javascript/Node.js based boblight adapter",
             "de": "ioBroker Adapter zur Ansteuerung von Boblight",
-            "ru": "avascript/Node.js based boblight adapter"
+            "ru": "Javascript/Node.js based boblight adapter"
         },
         "platform": "Javascript/Node.js",
         "mode": "daemon",
