@@ -2,8 +2,12 @@
     "common": {
         "name": "boblight",
         "version": "0.0.1",
-        "title": "iobroker boblight  Adapter",
-        "desc": "Javascript/Node.js based boblight adapter",
+        "title": "iobroker boblight Adapter",
+        "desc":                     {
+            "en": "Javascript/Node.js based boblight adapter",
+            "de": "ioBroker Adapter zur Ansteuerung von Boblight",
+            "ru": "Javascript/Node.js based boblight adapter"
+        },
         "platform": "Javascript/Node.js",
         "mode": "daemon",
         "icon": "boblight.png",
