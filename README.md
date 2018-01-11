@@ -2,6 +2,17 @@
 # ioBroker Boblight Adapter
 ==============
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+There will be no further development on this adapter, because it's replaced by the hyperion adapter. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+
 [![NPM version](http://img.shields.io/npm/v/iobroker.boblight.svg)](https://www.npmjs.com/package/iobroker.boblight)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.boblight.svg)](https://www.npmjs.com/package/iobroker.boblight)
 
