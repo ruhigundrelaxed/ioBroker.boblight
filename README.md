@@ -13,7 +13,7 @@ There will be no further development on this adapter, because it's replaced by t
 
 
 
-[![NPM version](http://img.shields.io/npm/v/iobroker.boblight.svg)](https://www.npmjs.com/package/iobroker.boblight)
+![Number of Installations](http://iobroker.live/badges/boblight-installed.svg) ![Number of Installations](http://iobroker.live/badges/boblight-stable.svg) [![NPM version](http://img.shields.io/npm/v/iobroker.boblight.svg)](https://www.npmjs.com/package/iobroker.boblight)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.boblight.svg)](https://www.npmjs.com/package/iobroker.boblight)
 
 [![NPM](https://nodei.co/npm/iobroker.boblight.png?downloads=true)](https://nodei.co/npm/iobroker.boblight/)
