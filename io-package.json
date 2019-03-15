@@ -8,6 +8,7 @@
             "de": "ioBroker Adapter zur Ansteuerung von Boblight",
             "ru": "Javascript/Node.js based boblight adapter"
         },
+        "license": "MIT",
         "platform": "Javascript/Node.js",
         "mode": "daemon",
         "icon": "boblight.png",

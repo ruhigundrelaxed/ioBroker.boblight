@@ -1,7 +1,7 @@
 "use strict";
 var fs = require('fs');
 var net = require('net');
-var utils =    require(__dirname + '/lib/utils'); // Get common adapter utils
+var utils = require('@iobroker/adapter-core'); // Get common adapter utils
 var adapter = utils.Adapter('boblight');
 var jf = require('jsonfile');
 
